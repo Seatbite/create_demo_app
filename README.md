@@ -4,6 +4,7 @@ Thank you for taking our Front-end recruitment test. The challenge is divided in
 1.	Your task is to develop an application that allows you to place orders for food and drinks in a football stadium.
 2.	Answer some questions.
 
+
 ________________________________________
 
 We recommend that you do not spend more than 5 days on the test as long as the following items are served:
@@ -11,7 +12,11 @@ We recommend that you do not spend more than 5 days on the test as long as the f
 1.	Your application works as described in the task by getting the data from the JSON file. 
 2.	Your application is in accordance with the design.
 
+
+
 ________________________________________
+
+
 
 Task
 
@@ -21,14 +26,23 @@ Task
 4.	Make the delivery of the order to complete the process;
 5.	Change payment method at the time of order delivery.
 
+
+
 ________________________________________
+
+
 
 Design
 
 The design must represent the appearance set in these Mockup.
 Front-End
 We prefer that you use React. Plus, use the front-end libraries you feel comfortable with.
+
+
+
 ________________________________________
+
+
 
 Instructions for Sending The Test
 
